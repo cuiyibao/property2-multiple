@@ -1,0 +1,30 @@
+@import '//fonts.useso.com/css?family=Roboto:300,400,500,700,400italic';
+@import 'http://cdn.bootcss.com/material-design-icons/3.0.1/iconfont/material-icons.css';
+
+html,body,.page{
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+  background-color: #efecec;
+}
+
+.wrapper{
+  overflow: hidden;
+  background-color: #fff;
+  width: 100%;
+  margin-bottom: .6rem;
+}
+
+.mu-icon {
+  vertical-align: text-bottom;
+  color: #2d8cf0;
+}
+
+.mu-dialog-fullscreen {
+  background-color: black;
+}
